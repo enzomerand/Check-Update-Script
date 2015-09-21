@@ -12,7 +12,17 @@ Check out the demo : <a href="http://mtfo.mtfo.fr/checkupdatescript">mtfo.mtfo.f
 * Free or paying updates
 
 ##Installation
-...
+* Upload content of .zip in folder
+* Execute tables.sql in your database
+* Delete installation folder
+* Go to login page (yourdomain.com/login)
+* Enter "demo@gmail.com" for email and "admin" for password
+Now you can add update or delete and edit them
+
+To change your password and email, go in Settings page.
+
+##Bug & Suggestions
+Send me a mail to support@mtfo.fr
 
 ##License
 This script is licensed under the GPL v3.
