@@ -10,10 +10,13 @@ Check out the demo : <a href="http://mtfo.mtfo.fr/checkupdatescript">mtfo.mtfo.f
 * Beta update
 * Email notification
 * Free or paying updates
+
 ##Installation
 ...
+
 ##License
 This script is licensed under the GPL v3.
+
 ##Changelog
 <pre>1.0 - Initial release</pre>
 
