@@ -13,7 +13,7 @@ Check out the demo : <a href="http://mtfo.mtfo.fr/checkupdatescript">mtfo.mtfo.f
 
 ##Installation
 * Upload content of .zip in folder
-* Execute tables.sql in your database
+* Execute data.sql in your database
 * Delete installation folder
 * Go to login page (yourdomain.com/login)
 * Enter "demo@gmail.com" for email and "admin" for password
